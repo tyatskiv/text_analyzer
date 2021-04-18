@@ -1,11 +1,11 @@
 # Text Analyzer
 
-**Usage**: java -jar TextAnalyzer.jar
- -g,--globaloffset     Global char offset
- -in,--input <arg>     Input file name
- -m,--matches <arg>    CSV string of matches to analyze
- -out,--output <arg>   Output file name, if not specified - result will be printed to console
- -s,--skipempty        Skip the empty lines
+**Usage**: java -jar TextAnalyzer.jar  
+-g, --globaloffset &nbsp;&nbsp;&nbsp; Global char offset  
+-in, --input <arg> &nbsp;&nbsp;&nbsp; Input file name  
+-m, --matches <arg> &nbsp;&nbsp;&nbsp; CSV string of matches to analyze  
+-out, --output <arg> &nbsp;&nbsp;&nbsp; Output file name, if not specified - result will be printed to console  
+-s, --skipempty &nbsp;&nbsp;&nbsp; Skip the empty lines
 
 **Example command run:**
 
